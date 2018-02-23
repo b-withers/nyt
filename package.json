@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomtom28/nyt-react.git"
+    "url": "https://github.com/b-withers/nyt"
   },
-  "author": "tomtom28",
+  "author": "b-withers",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/tomtom28/nyt-react/issues"
   },
-  "homepage": "https://github.com/tomtom28/nyt-react#readme",
+  "homepage": "https://github.com/b-withers/nyt",
   "dependencies": {
     "axios": "^0.15.3",
     "body-parser": "^1.15.2",
